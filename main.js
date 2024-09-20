@@ -1,1 +1,1 @@
-alert('XSS executed from external URL!');
+alert('kv$ hear');
